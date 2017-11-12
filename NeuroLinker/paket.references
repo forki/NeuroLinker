@@ -1,4 +1,4 @@
-﻿GitVersionTask
-HtmlAgilityPack
+﻿HtmlAgilityPack
 Newtonsoft.Json
+SemVer.Git.MSBuild
 VaraniumSharp
